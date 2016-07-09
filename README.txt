@@ -4,3 +4,4 @@ in truth,I love you,long long ago
 Unfortunately, we can never be friends.
 What a pity
 /*why not*/
+goodbye
